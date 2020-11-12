@@ -12,4 +12,15 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
+    <exclude-output />
+      <content url="file://$MODULE_DIR$">
+       <orderEntry type="inheritedJdk" />
+          <orderEntry type="sourceFolder" forTests="false" />
+        <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      </content>
+       <orderEntry type="inheritedJdk" />
+          <orderEntry type="sourceFolder" forTests="false" />
+      <orderEntry type="inheritedJdk" />
+      <orderEntry type="sourceFolder" forTests="false" />
+    </component>
 </module>
